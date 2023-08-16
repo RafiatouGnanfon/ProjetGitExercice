@@ -1,0 +1,19 @@
+1-mkdir ProjetGitExercice
+2- git init
+3- fichier créé et contenu ajouté
+4- git add index.html 
+git commit -m  "Premier commit : ajout du fichier index.html"
+5-git branch feature-navbar
+ git checkout feature-navbar
+6- le fichier modifié
+7-git commit -m "Ajout de la barre de navigation"
+8- git checkout master
+9-git merge feature-navbar
+10-git branch feature-footer
+11-modification ajoutée
+12- git commit - m "Ajout du pied de page"
+13- git checkout master
+14- git merge feature-footer
+15-commandes saisies
+git add answer.txt
+git commit -m "Voici mon premier projet sur git"
